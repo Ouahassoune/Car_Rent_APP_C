@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1672158574 source:c:\users\dell\desktop\lc2.f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"fct2.h"
+	<windows.h>
+	<string.h>
+	<conio2.h>
+
+1672192392 c:\users\dell\desktop\lc2.f\fct2.h
+	<conio2.h>
+
+1672158574 source:c:\users\user\downloads\lcv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"fct2.h"
+	<windows.h>
+	<string.h>
+	<conio2.h>
+
+1672344259 c:\users\user\downloads\lcv\fct2.h
+	<conio2.h>
+
+1672364613 source:c:\users\dell\desktop\nouveau dossier (3)\lcv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"fct2.h"
+	<windows.h>
+	<string.h>
+	<conio2.h>
+
+1672368781 c:\users\dell\desktop\nouveau dossier (3)\lcv\fct2.h
+	<conio2.h>
+
+1672398813 source:c:\users\dell\desktop\nouveau dossier (3)\lcv final version\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"fct2.h"
+	<windows.h>
+	<string.h>
+	<conio2.h>
+
+1672398987 c:\users\dell\desktop\nouveau dossier (3)\lcv final version\fct2.h
+	<conio2.h>
+
+1672398814 source:c:\users\user\downloads\lcv final version\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"fct2.h"
+	<windows.h>
+	<string.h>
+	<conio2.h>
+
+1672404352 c:\users\user\downloads\lcv final version\fct2.h
+	<conio2.h>
+
+1672398814 source:c:\users\dell\desktop\lcv final v2\lcv final version\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"fct2.h"
+	<windows.h>
+	<string.h>
+	<conio2.h>
+
+1672404352 c:\users\dell\desktop\lcv final v2\lcv final version\fct2.h
+	<conio2.h>
+
